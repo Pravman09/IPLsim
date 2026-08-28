@@ -1,4 +1,4 @@
-````md
+
 # IPL Cricket Simulator 🏏⚡
 
 A futuristic single-file IPL cricket simulator built entirely using Python and Pygame.
