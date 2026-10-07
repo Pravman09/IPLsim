@@ -182,7 +182,7 @@ If you like the project:
 Cricket + coding = perfect combo 🏏💻
 
 
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 ```
 ```
